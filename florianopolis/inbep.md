@@ -19,7 +19,7 @@ http://inbep.com.br
 
 Como Organizamos
 ----------------
-Para os bandos de dados PostgreSQL e MariaDB utilizado o AWS RDS, que cuida dos backups e atualizações dos bancos.
+Para os bancos de dados PostgreSQL e MariaDB utilizado o AWS RDS, que cuida dos backups e atualizações.
 
 Nossa plataforma fica em uma instancia EC2 junto com o Beanstalkd, responsável por gerenciar a fila de tarefas de latência.
 
