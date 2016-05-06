@@ -1,7 +1,6 @@
 MrPrompt
 --------
 https://www.mrprompt.com.br
-https://www.github.com/mrprompt
 
 - PHP5.5, PHP5.6, PHP7.0
   - Composer
