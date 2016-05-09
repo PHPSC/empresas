@@ -1,13 +1,14 @@
-# PHP-SC / Empresas #
+# PHPSC / Empresas #
 
 ### Catálogo de empresas de Santa Catarina que utilizam PHP ###
-Sinta-se convidado a cadastrar a sua empresa, para isso, basta efetuar a abertura de um Pull Request submetendo um arquivo Markdown com o nome da sua empresa.
+
+Sinta-se convidado a cadastrar a sua empresa, para isso, basta abrir um Pull Request submetendo um arquivo Markdown com o nome da sua empresa e de acordo com o exemplo no fim dessa página.
 
 Não se esqueça de criar um diretório com o nome da cidade da sua empresa, para mantermos o conteúdo organizado.
 
-Lembre-se também de obter autorização para divulgar informações como, por exemplo, a stack utilizada. Se você não está seguro de que o *contrato de confidencialidade* assinado com a sua empresa lhe permite divulgar estas informações, antes de abrir o PR, verifique com o responsável da sua empresa.
+Lembre-se também de obter autorização prévia para divulgar qualquer informação técnica, a stack utilizada, por exemplo. Se você não está seguro sobre a abrangência dos termos do *contrato de confidencialidade* assinado entre você e sua empresa, verifique com os responsáveis sobre essa possibilidade. Não esqueça de fazer isso antes de abrir o Pull Request (O mesmo poderá ser aceito a qualquer momento após a criação).
 
-Este catálogo serve para que a comunidade conheça um pouco mais da sua empresa e é importante para que possamos orientar as próximas ações do PHP-SC.
+Este catálogo ajudará a comunidade a conheçer um pouco mais sobre como sua empresa trabalha, além de ser importante para o planejamento e execução das ações do PHPSC. 
 
 Todas as empresas de Santa Catarina são bem vindas!
 
@@ -47,7 +48,6 @@ Alguns destes trabalham remotamente.
 Contamos com dois programadores ZCE:
 - https://github.com/github-do-programador
 - https://github.com/github-do-outro-programador
-
 
 
 Projetos interessantes
