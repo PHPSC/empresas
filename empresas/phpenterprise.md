@@ -41,8 +41,7 @@ Procuramos fazer mais com menos, por meio de métodos ágeis e componentes de pr
 
 [Php Enterprise](http://phpenterprise.com)
 
-Empresas do grupo
-----------------
+### Empresas do grupo
 
 * [Smart Dealer](http://smartdealership.com.br) 
 * [Rankim Software](http://rankim.com.br)
