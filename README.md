@@ -12,6 +12,7 @@ Todas as empresas de Santa Catarina são bem vindas!
   * [INBEP](empresas/inbep.md)
   * [MrPrompt](empresas/mrprompt.md)
   * [SocialBase](empresas/socialbase.md)
+  * [PhpEnterprise](empresas/phpenterprise.md)
 
 * Joinville
   * [Coderockr](empresas/coderockr.md)
