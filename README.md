@@ -13,6 +13,10 @@ Todas as empresas de Santa Catarina são bem vindas!
   * [MrPrompt](empresas/mrprompt.md)
   * [SocialBase](empresas/socialbase.md)
   * [PhpEnterprise](empresas/phpenterprise.md)
+<<<<<<< HEAD
+=======
+  * Meritt
+>>>>>>> 7caab6b5d0a410d888170a56306bc7dcf6e708f9
 
 * Joinville
   * [Coderockr](empresas/coderockr.md)
