@@ -1,6 +1,6 @@
 Web em Segundos
 ---------------
-https://www.webemsegundos.com.br
+http://www.webemsegundos.com.br
 
 - PHP5.4, PHP5.6, PHP7.0
   - Composer
