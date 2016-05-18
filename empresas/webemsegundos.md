@@ -24,17 +24,21 @@ Cases Principais
 Compartilhando
 --------------
 - [Siglas](http://siglas.info)
-  PHP com MongoDB
-  Será disponibilizado no github em breve para aprimoramento colaborativo
+
+[Fork no Github e contribua](https://github.com/webemsegundos/siglas) PHP / AngularJS / MongoDB -> 
 
 Nas Redes
 ---------
 https://facebook.com/webemsegundos
+
 https://twitter.com/webemsegundos
+
 https://github.com/webemsegundos
 
 Vagas
 -----
 - Sempre precisamos de pessoas dinâmicas, interessadas e com vontade de aprender
+
   Contratamos part-time, modo home-office
+
   Se você se encaixa nesse perfil, envie e-mail para contato@webemsegundos.com.br com o assunto: "Tenho tempo disponível" e nos informe o que você já sabe e o que tem vontade de aprender.
