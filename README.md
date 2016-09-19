@@ -14,6 +14,7 @@ Todas as empresas de Santa Catarina são bem vindas!
   * [SocialBase](empresas/socialbase.md)
   * [PhpEnterprise](empresas/phpenterprise.md)
   * [Web em Segundos](empresas/webemsegundos.md)
+  * [Divulga.do](empresas/divulgado.md)
 
 * Joinville
   * [Coderockr](empresas/coderockr.md)
