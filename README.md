@@ -16,6 +16,9 @@ Todas as empresas de Santa Catarina são bem vindas!
   * [Web em Segundos](empresas/webemsegundos.md)
   * [Divulga.do](empresas/divulgado.md)
 
+* Itajaí
+  * [Evolutecnet Informática](empresas/evolutecnet.md)
+
 * Joinville
   * [Coderockr](empresas/coderockr.md)
 
