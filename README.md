@@ -22,6 +22,9 @@ Todas as empresas de Santa Catarina são bem vindas!
 * Joinville
   * [Coderockr](empresas/coderockr.md)
 
+* São José
+  * [Smacky Technologies](empresas/smacky-technologies.md)
+
 ### Como incluir uma empresa
 
 Siga as instruções contidas em [CONTRIBUTING](CONTRIBUTING.md)
