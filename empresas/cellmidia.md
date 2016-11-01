@@ -1,7 +1,8 @@
 Cellmidia Marketing Digital LTDA
 --------------------------------
 http://www.cellmidia.com.br
-Repositórios em: https://cellmdia.github.io
+
+Repositórios em: https://cellmidia.github.io
 
 
 - PHP7
@@ -51,7 +52,7 @@ Colaboradores
 
 Trabalham na empresa 2 programadores PHP
 
-Nosso Líder técnico ´ ZCE
+Nosso Líder técnico ZCE
 
 - https://github.com/mingomax
 
