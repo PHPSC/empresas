@@ -15,6 +15,7 @@ Todas as empresas de Santa Catarina são bem vindas!
   * [PhpEnterprise](empresas/phpenterprise.md)
   * [Web em Segundos](empresas/webemsegundos.md)
   * [Divulga.do](empresas/divulgado.md)
+  * [Cellmidia](empresas/cellmidia.md)
 
 * Itajaí
   * [Evolutecnet Informática](empresas/evolutecnet.md)
