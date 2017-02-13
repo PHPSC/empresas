@@ -8,6 +8,9 @@ Todas as empresas de Santa Catarina são bem vindas!
 
 ## Empresas:
 
+* Biguaçu
+  * [NomenaLista.net](empresas/nomenalista.md)
+  
 * Florianópolis
   * [INBEP](empresas/inbep.md)
   * [MrPrompt](empresas/mrprompt.md)
@@ -16,6 +19,7 @@ Todas as empresas de Santa Catarina são bem vindas!
   * [Web em Segundos](empresas/webemsegundos.md)
   * [Divulga.do](empresas/divulgado.md)
   * [Cellmidia](empresas/cellmidia.md)
+  * [PHIPASA](empresas/phipasa.md)
 
 * Itajaí
   * [Evolutecnet Informática](empresas/evolutecnet.md)
