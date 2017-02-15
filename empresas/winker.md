@@ -1,5 +1,7 @@
 Winker
 ------
+A maior plataforma do Brasil (estamos em Floripa!) que integra, facilita e otimiza a vida nos condomínios.
+
 http://www.winker.com.br
 
 - PHP5.6, PHP7
@@ -56,4 +58,5 @@ Resumo da arquitetura
 Oportunidades em aberto
 -----------------------
 Ama tecnologia, aprender, repassar conhecimentos e sem medo de desafios? Bora! ;)
-talentos@winker.com.br
+
+Fale com: dGFsZW50b3NAd2lua2VyLmNvbS5icg==
