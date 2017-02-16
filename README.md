@@ -20,6 +20,7 @@ Todas as empresas de Santa Catarina são bem vindas!
   * [Divulga.do](empresas/divulgado.md)
   * [Cellmidia](empresas/cellmidia.md)
   * [PHIPASA](empresas/phipasa.md)
+  * [Winker](empresas/winker.md)
 
 * Itajaí
   * [Evolutecnet Informática](empresas/evolutecnet.md)
