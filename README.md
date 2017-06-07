@@ -21,6 +21,7 @@ Todas as empresas de Santa Catarina são bem vindas!
   * [Cellmidia](empresas/cellmidia.md)
   * [PHIPASA](empresas/phipasa.md)
   * [Winker](empresas/winker.md)
+  * [Vios Tecnologia](empresas/vios.md)
 
 * Itajaí
   * [Evolutecnet Informática](empresas/evolutecnet.md)
