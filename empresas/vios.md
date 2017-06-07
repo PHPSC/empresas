@@ -27,9 +27,8 @@ http://vios.com.br
 
 Colaboradores
 ----------------
-
-Juliano de Miranda (Analista Programador)
-Kaléu Caminha (Líder Técnico)
-Kaue Dias (Programador Back End)
-Lucas Tischler (Programador Back End)
-Lucas Umberto (Programador Front End)
+  - Juliano de Miranda (Analista Programador)
+  - Kaléu Caminha (Líder Técnico)
+  - Kaue Dias (Programador Back End)
+  - Lucas Tischler (Programador Back End)
+  - Lucas Umberto (Programador Front End)
