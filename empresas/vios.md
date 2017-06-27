@@ -7,15 +7,24 @@ http://vios.com.br
   - Zend Framework 2, 3
   - Apigility
   - Doctrine (Migrations, ORM)
-  - PHPUnit
+  - PHPUnit 6
   - Twig
-- MySQL
-- BackboneJS, jQuery
-- AWS
-- LetsEncrypt (SSL)
-- Apache
+- Front End
+  - Bootstrap 3
+  - BackboneJS, jQuery
+  - Grunt, Bower, Less
+- Infra
+  - MySQL 5.6+
+  - Linode
+  - AWS S3
+  - LetsEncrypt (SSL)
+  - Apache 2
+  - Linux Ubuntu
 
 Colaboradores
 ----------------
-
-Trabalham na empresa 1 desenvolvedor Front-End, 3 desenvolvedores back-end e 1 desenvolvedor full-stack.
+  - @IncogniJM (Analista Programador)
+  - @konscia (Líder Técnico)
+  - @kauepassy  (Programador Back End)
+  - @tischlerlucas (Programador Back End)
+  - @lucasumberto (Programador Front End)
