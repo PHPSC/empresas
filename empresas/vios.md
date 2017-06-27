@@ -23,8 +23,8 @@ http://vios.com.br
 
 Colaboradores
 ----------------
-  - @IncogniJM (Analista Programador)
-  - @konscia (Líder Técnico)
-  - @kauepassy  (Programador Back End)
-  - @tischlerlucas (Programador Back End)
-  - @lucasumberto (Programador Front End)
+  - [@IncogniJM](https://github.com/IncogniJM) (Analista Programador)
+  - [@konscia](https://github.com/konscia) (Líder Técnico)
+  - [@kauepassy](https://github.com/kauepassy)  (Programador Back End)
+  - [@tischlerlucas](https://github.com/tischlerlucas) (Programador Back End)
+  - [@lucasumberto](https://github.com/lucasumberto) (Programador Front End)
