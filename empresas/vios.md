@@ -11,24 +11,20 @@ http://vios.com.br
   - Twig
 - Front End
   - Bootstrap 3
-  - BackboneJS, jQuery, Underscore
-  - FullCalendar, DataTable, Select2
-  - Grunt, Bower
+  - BackboneJS, jQuery
+  - Grunt, Bower, Less
 - Infra
-  - MySQL 5.7
+  - MySQL 5.6+
   - Linode
-  - S3
+  - AWS S3
   - LetsEncrypt (SSL)
   - Apache 2
   - Linux Ubuntu
-- Ferramentas
-  - Jira Agile
-  - PHP Storm
 
 Colaboradores
 ----------------
-  - Juliano de Miranda (Analista Programador)
-  - Kaléu Caminha (Líder Técnico)
-  - Kaue Dias (Programador Back End)
-  - Lucas Tischler (Programador Back End)
-  - Lucas Umberto (Programador Front End)
+  - @IncogniJM (Analista Programador)
+  - @konscia (Líder Técnico)
+  - @kauepassy  (Programador Back End)
+  - @tischlerlucas (Programador Back End)
+  - @lucasumberto (Programador Front End)
