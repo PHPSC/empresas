@@ -22,6 +22,7 @@ Todas as empresas de Santa Catarina são bem vindas!
   * [PHIPASA](empresas/phipasa.md)
   * [Winker](empresas/winker.md)
   * [Vios Tecnologia](empresas/vios.md)
+  * [DOT digital group](empresas/dotgroup.md)
 
 * Itajaí
   * [Evolutecnet Informática](empresas/evolutecnet.md)
